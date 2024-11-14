@@ -181,3 +181,9 @@ For potential candidates, the role offers:
 - A meaningful impact on individuals’ lives through dance, resonating strongly with those passionate about teaching and mentorship.
 
 In summary, DF Dance Studio stands well-positioned to attract talent and thrive in the evolving dance industry landscape by emphasizing its commitment to community, inclusivity, and continuous improvement. The Master Dance Teacher role not only addresses current challenges but also plays a pivotal role in seizing emerging opportunities within the sector.
+
+# Agent: Job Description Writer
+## Thought: I will start by gathering insights from Utah's largest Salsa, Bachata, Swing, Country, and Ballroom dance studio to craft a compelling job posting for the Master Dance Teacher position.
+## Using tool: Search in a specific website
+## Tool Input:
+"{\"description\": \"Utah largest SALSA, BACHATA, SWING, COUNTRY and BALLROOM Dance Studio for adults\", \"website\": \"https://www.danceutah.com\"}"
