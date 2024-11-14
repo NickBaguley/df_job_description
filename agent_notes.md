@@ -37,4 +37,11 @@ This comprehensive understanding of DF Dance Studio’s culture, values, and mis
 
 
 # Agent: Research Analyst
+## Thought: I need to gather more information about the specific skills, experiences, and qualities required for the role of Master Dance Teacher specializing in Latin Dancing, while aligning it with DF Dance Studio's mission, culture, and ongoing projects.
+## Using tool: Search the internet
+## Tool Input:
+"{\"search_query\": \"Master Dance Teacher skills and qualifications for Latin Dancing\", \"website\": \"https://www.dfdancestudio.com\"}"
+
+
+# Agent: Research Analyst
 ## Task: Based on the hiring manager's needs: Master Dance Teacher, for Latin Dancing that can lead teachers, develop curriculum, build and train syllabuses, and grow the studios offerings., identify the key skills, experiences, and qualities the ideal candidate should possess for the role. Consider the company's current projects, its competitive landscape, and industry trends. Prepare a list of recommended job requirements and qualifications that align with the company's needs and values.
